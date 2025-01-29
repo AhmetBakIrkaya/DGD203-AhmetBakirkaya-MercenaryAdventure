@@ -75,7 +75,7 @@ namespace Game
         private void ShowCredits()
         {
             Console.Clear();
-            Console.WriteLine("Game developed by Your Name.");
+            Console.WriteLine("Game developed by Ahmet Bakırkaya and ChatGPTs help.");
             Console.WriteLine("Press any key to return to the main menu...");
             Console.ReadKey();
         }
